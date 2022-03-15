@@ -1,0 +1,200 @@
+.img-cat {
+    position: absolute;
+    width: 600px;
+    height: 820px;
+    left: 0px;
+    top: 80px;
+}
+
+.title-text {
+    position: absolute;
+    width: 500px;
+    height: 48px;
+    left: 110px;
+    top: 390px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 10px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.frase-animal {
+    position: absolute;
+    width: 380px;
+    height: 148px;
+    left: 110px;
+    top: 420px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.frase-login {
+    position: absolute;
+    width: 294px;
+    height: 22px;
+    left: 110px;
+    top: 550px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.frase-login a{
+    text-decoration: none;
+    color: #F8D536;
+}
+
+.frase-login a:hover{
+    text-decoration: none;
+    color: #51D1CD;
+}
+
+.frase-cadastro {
+    position: absolute;
+    width: 430px;
+    height: 48px;
+    left: 780px;
+    top: 110px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+    color: #4A4A4A;
+}
+
+.frase-cadastro span {
+    color: #F8D536;
+}
+
+.inputs-cadastro{
+    background-color: #e4ecf2;
+    border: 1px solid #9ad9ea;
+    border-radius: 5px;
+    color: #4A4A4A;
+    padding-left: 30px;
+}
+
+.inputs-cadastro:focus{
+    outline: 0;
+}
+
+.input-nome{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 180px;
+}
+
+.input-email{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 250px;
+}
+
+.input-senha{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 320px;
+}
+
+.input-numero{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 390px
+}
+
+.input-cep{
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 737px;
+    top: 460px
+}
+
+.input-estado{
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 997px;
+    top: 460px
+}
+
+.input-cidade{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 530px
+}
+
+.input-bairro{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 600px
+}
+
+.input-rua{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 670px
+}
+
+.button-finalizar{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 737px;
+    top: 745px;
+    background-color: #F8D536;
+    border: none;
+    border-radius: 6px;
+}
+
+.button-finalizar:focus{
+    outline: 0;
+}
+
+.font-footer {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding-top: 3.1%;
+}
+
+.footer-cadastro-usuario{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 820px; 
+    background-color: #51D1CD;
+}

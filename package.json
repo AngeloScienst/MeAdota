@@ -1,0 +1,31 @@
+{
+  "name": "meadota",
+  "version": "1.0.0",
+  "description": "Uma aplicação web para facilitar a adoção de animais. Esse trabalho é voltado para a disciplina de Projeto Integrador 2 do curso de Análise e Desenvolvimentos de Sistemas.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josevitorsoares/MeAdota.git"
+  },
+  "author": "josevitorsoares",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-pg-simple": "^6.2.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.6",
+    "pg": "^8.7.3"
+  },
+  "bugs": {
+    "url": "https://github.com/josevitorsoares/MeAdota/issues"
+  },
+  "homepage": "https://github.com/josevitorsoares/MeAdota#readme"
+}
